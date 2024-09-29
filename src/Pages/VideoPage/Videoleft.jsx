@@ -1,5 +1,7 @@
 import React from 'react';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
+
 import SettingsIcon from '@mui/icons-material/Settings';
 import AddIcon from '@mui/icons-material/Add';
 

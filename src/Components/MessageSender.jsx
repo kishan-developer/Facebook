@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Avatar, Modal, IconButton } from '@material-ui/core';
+// import { Avatar, Modal, IconButton } from '@material-ui/core';
+import { Avatar, IconButton, Modal } from '@mui/material';
 // import VideoCallIcon from '@material-ui/icons/VideoCall';
 import PhotoLibraryIcon from '@material-ui/icons/PhotoLibrary';
 import InsertEmoticonIcon from '@material-ui/icons/InsertEmoticon';

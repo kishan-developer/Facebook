@@ -4,7 +4,10 @@ import HomeIcon from '@material-ui/icons/Home';
 import OndemandVideoIcon from '@material-ui/icons/OndemandVideo';
 import PeopleIcon from '@material-ui/icons/People';
 import SportsEsportsIcon from '@material-ui/icons/SportsEsports';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
+
+
 import AppsIcon from '@material-ui/icons/Apps';
 import ForumIcon from '@material-ui/icons/Forum';
 import NotificationsActiveIcon from '@material-ui/icons/NotificationsActive';

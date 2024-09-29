@@ -1,6 +1,7 @@
 import React,{ useState } from 'react'
 import { useThemeContextValue } from '../../Utils/context/ThemeContext'
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
+import { Avatar } from '@mui/material';
 import StarIcon from '@mui/icons-material/Star';
 import Face6Icon from '@mui/icons-material/Face6';
 import SentimentSatisfiedAltIcon from '@mui/icons-material/SentimentSatisfiedAlt';

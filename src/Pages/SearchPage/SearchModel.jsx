@@ -3,7 +3,9 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import SearchIcon from '@material-ui/icons/Search';
 import { useNavigate } from 'react-router-dom';
 import CancelIcon from '@mui/icons-material/Cancel';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
+
 import { useThemeContextValue } from '../../Utils/context/ThemeContext';
 
 function SearchModel({ searchValue, handleChangeSeachData, closeModal, handleSearch }) {

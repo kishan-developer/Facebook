@@ -1,5 +1,6 @@
 import React from 'react';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
 import SaveAsIcon from '@mui/icons-material/SaveAs';
 import PermMediaIcon from '@mui/icons-material/PermMedia';
 import FlagIcon from '@mui/icons-material/Flag';

@@ -1,7 +1,8 @@
 import React from 'react';
 import '../CSS/RightSidebar.css';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
+import { Avatar } from '@mui/material';
 import NotificationsNoneIcon from '@material-ui/icons/NotificationsNone';
 import VolumeUpIcon from '@material-ui/icons/VolumeUp';
 import VideocamIcon from '@material-ui/icons/Videocam';

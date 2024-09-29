@@ -1,7 +1,9 @@
 import React,{ useEffect } from 'react';
 import '../ProfilePage/Profile.css';
 import AddAPhotoIcon from '@mui/icons-material/AddAPhoto';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
+
 import Top from './Top';
 import Dashbords from './DashbordPages/Dashbords';
 import { Outlet} from 'react-router-dom';

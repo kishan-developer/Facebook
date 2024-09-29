@@ -1,7 +1,8 @@
 import React ,{ useState }from 'react';
 import '../CSS/Post.css';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
+import { Avatar } from '@mui/material';
 import PublicIcon from '@material-ui/icons/Public';
 import ThumbUpIcon from '@material-ui/icons/ThumbUp';
 import ChatBubbleOutlineIcon from '@material-ui/icons/ChatBubbleOutline'; 

@@ -1,6 +1,7 @@
 import React from 'react';
 import '../PostComment/postComment.css';
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
+import { Avatar } from '@mui/material';
 import Post from '../Post';
 import Comments from '../PostComment/Comments.jsx';
 import AddComment from './AddComment';

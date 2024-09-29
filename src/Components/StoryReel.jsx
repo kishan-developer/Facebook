@@ -1,6 +1,7 @@
 import React from 'react';
 import '../CSS/Story.css';
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
+import { Avatar } from '@mui/material';
 
 function StoryReel() {
     return (

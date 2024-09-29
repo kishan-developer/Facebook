@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react'
 import PageLeft from './PageLeft';
-import { Avatar, IconButton } from '@material-ui/core';
+// import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@mui/material';
+
 import EditIcon from '@mui/icons-material/Edit';
 import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 import { useNavigate } from 'react-router-dom';
