@@ -12,7 +12,7 @@ import PostComments from './PostComment/PostComments';
 import PostEdit_Detete from '../Components/PostComponent/PostEdit_Delete';
 
 function Post({ data }) {
-    const [postLick , setPostLick] = useState(data?.like);
+    const [postLick , setPostLick] = useState(data?.likeCount);
     const [liked, setLiked] = useState(false);
 
     const [editmodel , setEditModel] = useState(false);
